@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="undangan digital sandra" />
+              <option name="title_text" value="Wedding Sandra-Rahmat" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -80,7 +80,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1306,6 +1306,11 @@
         <slidelink slideid="_player.5exc9SHf1g2" displaytext="rsvp" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5exc9SHf1g2.6RIxM4ouXou" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mdxqxuRk4Y" displaytext="Gallery" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5mdxqxuRk4Y.5wtnPkR3tTj" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
